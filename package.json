@@ -1,0 +1,23 @@
+{
+  "name": "btnioserver",
+  "version": "1.0.0",
+  "description": "kyo",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "blueimp-md5": "^2.16.0",
+    "cors": "^2.8.5",
+    "es6-promise": "^4.2.8",
+    "exceljs": "^4.1.0",
+    "express": "^4.17.1",
+    "gsap": "^3.4.0",
+    "lodash": "^4.17.19",
+    "md5": "^2.2.1",
+    "moment": "^2.27.0",
+    "mongodb": "^3.5.9",
+    "simple-peer": "^9.7.2",
+    "socket.io": "^1.4.8",
+    "socket.io-emitter": "^3.1.1",
+    "socket.io-redis": "^3.0.0",
+    "uniqid": "^5.2.0"
+  }
+}
